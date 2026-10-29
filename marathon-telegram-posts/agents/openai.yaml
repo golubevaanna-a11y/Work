@@ -1,0 +1,4 @@
+interface:
+  display_name: "Посты марафона для Telegram"
+  short_description: "Посты по образцу с иллюстрациями в Google Docs"
+  default_prompt: "Используй $marathon-telegram-posts: подготовь посты для нового марафона по образцу, возьми данные из карточки и писем и вставь картинки над ссылками в Google Документ."

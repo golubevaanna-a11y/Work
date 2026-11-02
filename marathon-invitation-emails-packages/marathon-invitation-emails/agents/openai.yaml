@@ -1,0 +1,4 @@
+interface:
+  display_name: "Письма-приглашения на марафон ПАКЕТЫ"
+  short_description: "Цепочка приглашений и прогревов в Google Таблице"
+  default_prompt: "Используй $marathon-invitation-emails: подготовь по карточке нового марафона всю цепочку писем на русском и запиши её в указанную Google Таблицу."
